@@ -1,4 +1,4 @@
-# bg3_feat_generator_dotnet
+# Baldur's Gate 3 Feat Extractor C# Tool
 A tool to generate the stat files with spells and boosts representing feats for the D&amp;D Epic 6 mod. 
 
 For the D&amp;D Epic 6 implementation, I ran into a problem trying to dynamically create the spells and boosts within the Script Exttender.
@@ -9,9 +9,9 @@ Instead I wrote this to statically generate the boosts and spells that would rep
 
 The Feat Extractor goes through the pak files of the game, searching for all the data it would need to generate feats. It extracts module information, feats, feat descriptions, stats (including spells, passives, boosts, etc), lists (ability, skills, spells, etc) and tries to put that all together into E6_Gen_* files that you can see in the Epic 6 mod.
 
-Long term it would have also downloaded mods from Nexus Mods to gather their feat information, too, however, given the impass described in the Epic 6 mod, I'm pausing development for now and making it available for others to consume and find uses for.
+Long term it would have also downloaded mods from Nexus Mods to gather their feat information, too, however, given the impass described in the Epic 6 mod, I'm pausing development for now and making it available for others to consume and find uses for. This means that some parts of the code have ideas roughed out, but not implemented as it isn't worth it until I can overcome the impasse (and whatever solution that may be might not need this code).
 
-This code does use Norbyte's LSLib and has a batch file Get_LSLib_Deps.cmd, that will download it (the download folder is in the .gitignore).
+The Feat Extractor does use Norbyte's LSLib and has a batch file Get_LSLib_Deps.cmd, that will download it (the download folder is in the .gitignore).
 
 # Why?
 
