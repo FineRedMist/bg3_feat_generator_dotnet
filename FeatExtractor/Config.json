@@ -1,0 +1,35 @@
+{
+  "GameInstallPaths": [
+    "E:\\Steam\\steamapps\\common\\Baldurs Gate 3",
+    "D:\\Games\\Steam\\steamapps\\common\\Baldurs Gate 3"
+  ],
+  "Nexus": {
+    "ApiKey": null,
+    "UrlFormat": "https://www.nexusmods.com/baldursgate3/mods/{0}",
+    "GameMods": {
+      "War Caster 5E": 1192,
+      "Feats Extra": 167,
+      "Essential Feats": 5623,
+      "Rebalance Feats": 5614,
+      "Legendary Resistance Feats": 4730,
+      "Damage Reflection Feats": 4694,
+      "5E Feats Rebalanced and Reworked": 4379,
+      "Simply Unbalanced Feats": 4169,
+      "Class Specialization Feats": 3931,
+      "Simple Resistance Feats": 3918,
+      "Highmost Feats": 3905,
+      "Balance Tweaks for Several Feats": 3708,
+      "Random Feats": 3660,
+      "Feats Revised - Great Weapon Master and Sharpshooter": 3315,
+      "Extra Bonus and Action Resources": 2528,
+      "Different Racial Feats on Elves": 1251,
+      "Different Racial Feats on Half Elves": 1241,
+      "Different Racial Feats on Drow": 1237,
+      "Different Racial Feats on Humans": 1230,
+      "Different Racial Feats on Tieflings": 1232,
+      "Different Racial Feats on Dragonborns": 1234,
+      "Feats Upgraded": 768,
+      "5E Spells": 125
+    }
+  }
+}
